@@ -28,11 +28,11 @@ class RobolectricActivityTest {
 
     @Test
     fun validateTextViewContent() {
-        val tvActivity = activity!!.findViewById<View>(R.id.ActivityText) as TextView
-        assertNotNull("TextView could not be found", tvActivity)
+        val textViewFragment = activity!!.findViewById<View>(R.id.ActivityText) as TextView
+        assertNotNull("TextView could not be found", textViewFragment)
         assertTrue(
             "TextView value not matching",
-            "Fragment_Text_Value" == tvActivity.text.toString()
+            "Activity_text_value" == textViewFragment.text.toString()
         )
     }
 }

@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidApp4-Robolectric_Testing/RobolectricTestingAssignment/app/src/main/res/layout/activity_main.xml" value="0.2368659420289855" />
+        <entry key="..\:/AndroidApp4-Robolectric_Testing/RobolectricTestingAssignment/app/src/main/res/layout/fragment_test.xml" value="0.20729166666666668" />
         <entry key="..\:/RobolectricTestingAssignment/app/src/main/res/layout/activity_main.xml" value="0.2869791666666667" />
         <entry key="..\:/RobolectricTestingAssignment/app/src/main/res/layout/fragment_test.xml" value="0.30104166666666665" />
       </map>
